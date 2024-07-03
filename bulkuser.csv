@@ -1,0 +1,2 @@
+EmployeeID,FirstName,LastName,Name,username,Company,Department,Title,Telephone,email,Password,OU
+1123,Kamlesh,Kumar,Kamlesh Kumar,kamlesh.k,,,,,kamlesh.k@safnul.com,Testing@321!,"OU=org2,DC=safnul,DC=com"
